@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Pieces/Humans/SpawnHuman.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Board.cs" Line="67" Column="20" />
+      <File FileName="Assets/Scripts/Pieces/Humans/SpawnHuman.cs" Line="12" Column="2" />
+      <File FileName="Assets/Scripts/Pieces/Humans/Pawn.cs" Line="36" Column="19" />
+      <File FileName="Assets/Scripts/Pieces/Piece.cs" Line="28" Column="3" />
+      <File FileName="Assets/Scripts/SquareController.cs" Line="7" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
