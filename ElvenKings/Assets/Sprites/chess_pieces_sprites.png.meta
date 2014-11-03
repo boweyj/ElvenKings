@@ -1,6 +1,19 @@
 fileFormatVersion: 2
 guid: 941798b53d5aa4349a35082a2db2bd3d
 TextureImporter:
+  fileIDToRecycleName:
+    21300000: chess_pieces_sprites_0
+    21300002: chess_pieces_sprites_1
+    21300004: chess_pieces_sprites_2
+    21300006: chess_pieces_sprites_3
+    21300008: chess_pieces_sprites_4
+    21300010: chess_pieces_sprites_5
+    21300012: chess_pieces_sprites_6
+    21300014: chess_pieces_sprites_7
+    21300016: chess_pieces_sprites_8
+    21300018: chess_pieces_sprites_9
+    21300020: chess_pieces_sprites_10
+    21300022: chess_pieces_sprites_11
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -35,6 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 60
   alphaIsTransparency: 1
   textureType: 8
@@ -50,6 +64,7 @@ TextureImporter:
         height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: chess_pieces_sprites_1
       rect:
         serializedVersion: 2
@@ -59,6 +74,7 @@ TextureImporter:
         height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: chess_pieces_sprites_2
       rect:
         serializedVersion: 2
@@ -68,6 +84,7 @@ TextureImporter:
         height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: chess_pieces_sprites_3
       rect:
         serializedVersion: 2
@@ -77,6 +94,7 @@ TextureImporter:
         height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: chess_pieces_sprites_4
       rect:
         serializedVersion: 2
@@ -86,6 +104,7 @@ TextureImporter:
         height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: chess_pieces_sprites_5
       rect:
         serializedVersion: 2
@@ -95,6 +114,7 @@ TextureImporter:
         height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: chess_pieces_sprites_6
       rect:
         serializedVersion: 2
@@ -104,6 +124,7 @@ TextureImporter:
         height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: chess_pieces_sprites_7
       rect:
         serializedVersion: 2
@@ -113,6 +134,7 @@ TextureImporter:
         height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: chess_pieces_sprites_8
       rect:
         serializedVersion: 2
@@ -122,6 +144,7 @@ TextureImporter:
         height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: chess_pieces_sprites_9
       rect:
         serializedVersion: 2
@@ -131,6 +154,7 @@ TextureImporter:
         height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: chess_pieces_sprites_10
       rect:
         serializedVersion: 2
@@ -140,6 +164,7 @@ TextureImporter:
         height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: chess_pieces_sprites_11
       rect:
         serializedVersion: 2
@@ -149,5 +174,6 @@ TextureImporter:
         height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 
